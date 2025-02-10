@@ -53,3 +53,4 @@ plt.legend(prop=font_prop)
 plt.grid(True, linestyle='--', alpha=0.6)
 
 st.pyplot(plt)
+ 
